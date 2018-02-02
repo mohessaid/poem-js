@@ -33,7 +33,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * **Hamza MEZERREG** - *Initial work* - [hamzamez][1]
 * **Mohammed Essaid MEZERREG** - *Renewal & Update* - [mohessaid](https://github.com/mohessaid)
 
-You want to be part of this list :). All pull requests are welcome as long as they
+You want to be part of this :point_up: list :smirk: . All pull requests are welcome as long as they
 resepect our contributing guidelines.
 
 [1]: https://github.com/hamzamez
