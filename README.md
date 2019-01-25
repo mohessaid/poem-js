@@ -18,6 +18,7 @@ It is very simple. You put the poem inside a table, and every half-verse in a <s
 and include the script in your page as it is.
 You can see an example in this link : https://codepen.io/mohessaid/pen/dwZZYm
 
+```
 <h1>القصيدة العمرية</h1>
   <table cellspacing="20" class="poem" dir="rtl">
     <tbody>
@@ -47,6 +48,7 @@ You can see an example in this link : https://codepen.io/mohessaid/pen/dwZZYm
       </tr>
     </tbody>
   </table>
+```
 
 ## How do I get started?
 
