@@ -12,6 +12,44 @@ Believe me! Writing Arabic poems inside your web pages, mobile apps is indeed a 
 
 ![A sample of what Poem.js can do](./img/the-stupid-fig-tree.jpg)
 
+## How to use it
+
+It is very simple. You put the poem inside a table, and every half-verse in a <span> inside a <td> cell. like so.
+and include the script in your page as it is.
+You can see an example in this link : https://codepen.io/mohessaid/pen/dwZZYm
+
+```
+<h1>القصيدة العمرية</h1>
+  <table cellspacing="20" class="poem" dir="rtl">
+    <tbody>
+      <tr>
+        <td><span>إنــى تـذكـرتُ ـ والذكـرى مُـؤَرِّقـةٌ</span></td>
+        <td><span>مــجداً تــليــدا بــأيــديــنـا أضـعناه</span></td>
+      </tr>
+      <tr>
+        <td><span>ويـحَ العـروبة ! كان الكونُ مسرحها </span></td>
+        <td><span>فــأصــبَحــت تــتوارى فــي زوايـاه</span></td>
+      </tr>
+      <tr>
+        <td><span>أنَّى اتــجهــت إلى الإسـلام فـي بـلد</span></td>
+        <td><span>تـجدْهُ ـ كـالطـير ـ مـقصـوصاً جناحاه</span></td>
+      </tr>
+      <tr>
+        <td><span>كــم صــرفَــتْنَــا يــدٌ كــنّا نــصرِّفــها</span></td>
+        <td><span>وبـــات يـــمــلكـــنا شـــعبٌ ملكــناه</span></td>
+      </tr>
+      <tr>
+        <td><span>هـل كـان دِيْـن ابـنِ عـدنانٍ سوى فلق</span></td>
+        <td><span>شـق الوجـود، وليـلُ الجـهل يـغشـاه ؟</span></td>
+      </tr>
+      <tr>
+        <td><span>هـــي الحـــنيــفةُ عــينُ اللـه تــكلؤهــا</span></td>
+        <td><span>فــكلمــا حــاولوا تــشويــههــا شــاهـوا</span></td>
+      </tr>
+    </tbody>
+  </table>
+```
+
 ## How do I get started?
 
 coming . . . 
